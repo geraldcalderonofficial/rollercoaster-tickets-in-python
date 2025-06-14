@@ -1,1 +1,1 @@
-# rollercoaster-ride-tickets-in-python
+# Rollercoaster Ride Tickets in Python
